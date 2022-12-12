@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "green-living",
+			"script": "yarn",
+			"args": "run start"
+		}
+	]
+}
